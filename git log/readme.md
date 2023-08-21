@@ -1,0 +1,1 @@
+git log -> xem all thông tin commit
