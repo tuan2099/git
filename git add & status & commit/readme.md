@@ -16,3 +16,5 @@ Khu vực làm việc với git
 	
 - Đưa file -> committed 
 	+ git commit -m "text" -> commit code
+	+ git restore --source= + tên mã commit + tên file hoàn tác những commit trong quá khứ 
+	+ git rebase -i + mã commit -> sửa message 1 commit đã push 
